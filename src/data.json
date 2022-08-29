@@ -1,0 +1,65 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What alcoholic drink is mainly made from juniper berries?",
+            "correct_answer": "Gin",
+            "incorrect_answers": [
+                "Vodka",
+                "Rum",
+                "Tequila"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the German word for &quot;spoon&quot;?",
+            "correct_answer": "L&ouml;ffel",
+            "incorrect_answers": [
+                "Gabel",
+                "Messer",
+                "Essst&auml;bchen"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is the founder of &quot;The Lego Group&quot;?",
+            "correct_answer": "Ole Kirk Christiansen",
+            "incorrect_answers": [
+                " Jens Niels Christiansen",
+                "Kirstine Christiansen",
+                " Gerhardt Kirk Christiansen"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was Nintendo founded?",
+            "correct_answer": "September 23rd, 1889",
+            "incorrect_answers": [
+                "October 19th, 1891",
+                "March 4th, 1887",
+                "December 27th, 1894"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the soft drink Pepsi originally introduced as?",
+            "correct_answer": "Brad&#039;s Drink",
+            "incorrect_answers": [
+                "Pepsin Pop",
+                "Carolina Cola",
+                "Pepsin Syrup"
+            ]
+        }
+    ]
+}
